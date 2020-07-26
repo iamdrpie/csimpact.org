@@ -1,2 +1,4 @@
 # csimpact.org
-Repository of CS Impact
+Repository of CS Impact's office website
+
+License updating...
